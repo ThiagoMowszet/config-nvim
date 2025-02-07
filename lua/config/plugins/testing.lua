@@ -19,7 +19,4 @@ return {
 	    scope = { enabled = false },
 	},
     },
-    {
-	'p00f/nvim-ts-rainbow'
-    },
 }

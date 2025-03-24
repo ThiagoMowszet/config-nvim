@@ -1,7 +1,7 @@
 return {
 
     {
-	'tpope/vim-surround'
+	'tpope/vim-surround' -- TODO: Test this!
     },
     {
 	'windwp/nvim-autopairs',
